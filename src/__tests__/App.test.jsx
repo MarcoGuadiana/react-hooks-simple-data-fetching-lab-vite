@@ -91,3 +91,4 @@ describe('React Simple Data Fetching Lab', () => {
     await waitFor(() => expect(fetch).toHaveBeenCalledTimes(2));
   });
 });
+
